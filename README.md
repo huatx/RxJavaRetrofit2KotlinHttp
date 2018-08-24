@@ -1,2 +1,2 @@
-# RxJavaRetrofit2KotlinDemo
+# RxJavaRetrofit2KotlinHttp
 RxJavaRetrofit2Kotlin 的网络请求框架
