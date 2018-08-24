@@ -73,3 +73,4 @@ fastlane/readme.md
 /build
 /captures
 .externalNativeBuild
+/.idea
